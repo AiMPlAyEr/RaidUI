@@ -1,0 +1,10 @@
+## Title: RaidUI
+## APIVersion: 100027
+## OptionalDependsOn: LibStub LibAddonMenu-2.0
+## SavedVariables: RaidUISaved
+
+libs\LibStub\LibStub.lua
+
+libs\LibAddonMenu-2.0\LibAddonMenu-2.0.lua
+
+RaidUI.lua
